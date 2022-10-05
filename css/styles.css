@@ -27,7 +27,7 @@ ul {
 
 
 
-.portada {background-image:url(/fotos/fondo_gtr.jpg) ;height:100vh ;background-position: center; background-size: cover;  }
+.portada {background-image:url(/fotos/fondogtr.jpg) ;height:100vh ;background-position: center; background-size: cover;  }
 .portada img {height: 30vh;}
 h2 {text-align: center;box-sizing: content-box;width: 35%; background:linear-gradient( crimson 60%, rgb(6, 24, 166) ) ;padding: 15px;border: 3px solid black;}
 
@@ -35,25 +35,25 @@ h2 {text-align: center;box-sizing: content-box;width: 35%; background:linear-gra
 .primer-skyline {position:absolute; right: 50px;border: 3px solid black; }
 
 
-.portada--r32  {background-image:url(/fotos/fondo_r32.jpg) ;height:150vh ;background-position: center; background-size: cover; }
+.portada--r32  {background-image:url(/fotos/fondor32.jpg) ;height:150vh ;background-position: center; background-size: cover; }
 .texto--r32  {box-sizing: content-box; width: 100%; background-color: aliceblue; padding: 15px ;border: 3px solid black; height: 50vh; }
 .portada--r32 img {border: 3px solid black; height: 40vh;}
 .video--r32 {position:absolute ; border: 3px solid black;height: 40vh; size-adjust: 20% ;box-sizing: content-box; }
 .zoom { overflow: hidden;  }
 .zoom :hover   {  transform: scale(1.2); transition-duration: 1s; }
-.portada--r33  {background-image:url(/fotos/fondo_r33.jpg) ;height: 150vh ;background-position: center; background-size: cover; }
+.portada--r33  {background-image:url(/fotos/fondor33.jpg) ;height: 150vh ;background-position: center; background-size: cover; }
 .portada--r33 p {box-sizing: content-box; width: 100%; background-color: aliceblue; padding: 15px ;border: 3px solid black;height: 50vh; }
 .portada--r33 img {position:absolute; right: 50px; border: 3px solid black; height: 40vh; }
 
-.portada--r34  {background-image:url(/fotos/fondo_r34.jpg) ;height:150vh ;background-position: center; background-size: cover; }
+.portada--r34  {background-image:url(/fotos/fondor34.jpg) ;height:150vh ;background-position: center; background-size: cover; }
 .portada--r34 p {box-sizing: content-box; width: 50%; background-color: aliceblue; padding: 15px ;border: 3px solid black; height:50vh ; width: 100%; }
 .portada--r34 img {position: absolute;right: 50px; border: 3px solid black; height:36vh}
 
-.portada--r35  {background-image:url(/fotos/fondo_r35.jpg) ;height:150vh ;background-position: center; background-size: cover; }
+.portada--r35  {background-image:url(/fotos/fondor35.jpg) ;height:150vh ;background-position: center; background-size: cover; }
 .portada--r35 article {box-sizing: content-box; width: 50%; background-color: aliceblue; padding: 15px ;border: 3px solid black; }
 .portada--r35 img {position: absolute;right: 50px; border: 3px solid black; height:40vh}
 
-.portada--r36  {background-image:url(/fotos/fondo_r36.jpg) ;height:150vh ;background-position: center; background-size: cover; }
+.portada--r36  {background-image:url(/fotos/fondor36.jpg) ;height:150vh ;background-position: center; background-size: cover; }
 .portada--r36 article {box-sizing: content-box; width: 50%; background-color: aliceblue; padding: 15px ;border: 3px solid black; }
 .portada--r36 img {position: absolute;right: 50px; border: 3px solid black; height:40vh}
 
