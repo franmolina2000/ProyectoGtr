@@ -27,7 +27,7 @@ ul {
 
 
 
-.portada {background-image:url(/fotos/fondogtr.jpg); height: 100vh; background-position: center; background-size: cover;  }
+.portada {background-image:url(../fotos/fondogtr.jpg); height: 100vh; background-position: center; background-size: cover;  }
 .portada img {height: 30vh;}
 h2 {text-align: center;box-sizing: content-box;width: 35%; background:linear-gradient( crimson 60%, rgb(6, 24, 166) ) ;padding: 15px;border: 3px solid black;}
 
