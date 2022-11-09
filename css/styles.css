@@ -22,7 +22,7 @@
 }
 
 .portada {
-  background-image: url(../../fotos/fondogtr.jpg);
+  background-image: url(/fotos/fondogtr.jpg);
   height: 100vh;
   background-position: center;
   background-size: cover;
@@ -34,7 +34,7 @@
 
 /* Pagina R-32  */
 .portada--r32 {
-  background-image: url(../../fotos/fondor32.jpg);
+  background-image: url(/fotos/fondor32.jpg);
   height: 150vh;
   background-position: center;
   background-size: cover;
@@ -64,7 +64,7 @@
 
 /* Pagina R-33  */
 .portada--r33 {
-  background-image: url(../../fotos/fondor33.jpg);
+  background-image: url(/fotos/fondor33.jpg);
   height: 150vh;
   background-position: center;
   background-size: cover;
@@ -88,7 +88,7 @@
 
 /* Pagina R-34  */
 .portada--r34 {
-  background-image: url(../../fotos/fondor34.jpg);
+  background-image: url(/fotos/fondor34.jpg);
   height: 150vh;
   background-position: center;
   background-size: cover;
@@ -113,7 +113,7 @@
 
 /* Pagina R-35  */
 .portada--r35 {
-  background-image: url(../../fotos/fondor35.jpg);
+  background-image: url(/fotos/fondor35.jpg);
   height: 150vh;
   background-position: center;
   background-size: cover;
@@ -137,7 +137,7 @@
 
 /* Pagina R-36  */
 .portada--r36 {
-  background-image: url(../../fotos/fondor36.jpg);
+  background-image: url(/fotos/fondor36.jpg);
   height: 150vh;
   background-position: center;
   background-size: cover;
@@ -186,6 +186,7 @@ ul {
   transition-duration: 1s;
 }
 
+/* Pagina de contacto */
 .fondo-contacto {
   background-image: url(../../fotos/fondo-contacto.jpg);
   height: 90vh;
@@ -199,7 +200,7 @@ textarea {
 }
 
 .fondomodal {
-  background-image: url(../../fotos/gtr-r34.gif);
+  background-image: url(../fotos/gtr-r34.gif);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -281,7 +282,7 @@ h2 {
     height: auto;
   }
   .fondomodal {
-    background-image: url(../fotos/nissan-r34.gif);
+    background-image: url(/fotos/nissan-r34.gif);
   }
 }
 @media screen and (max-width: 500px) {
