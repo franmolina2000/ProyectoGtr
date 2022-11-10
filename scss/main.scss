@@ -9,7 +9,6 @@
   @import "pages/R33";
   @import "pages/R34";
   @import "pages/R35";
-  @import "pages/R36";
   @import "layout/header";
   @import "components/animations";
   @import "pages/contacto";
@@ -44,7 +43,6 @@
   .portada--r34 p {height: 40vh;width: 90%;font-size: 0.85rem;}
   .portada--r35 img {left: 50px;position: static; height: 25vh;}
   .portada--r35 p  {height: 50vh;width: 93%;justify-content: baseline;}
-  .portada--r36 img {left: 50px;position: static; height: 17vh;}
   .fondo-contacto form {height: auto;}
   .fondomodal {background-image: url(../fotos/nissanr34.gif);}
   }
@@ -62,5 +60,5 @@
    .portada--r34 img {left: 50px;position: static; height: 25vh;}
    .portada--r34 p {height: 40vh;width: 90%;}
    .portada--r35 img {left: 50px;position: static; height: 25vh;}
-   .portada--r36 img {left: 50px;position: static; height: 17vh;}
+   
    }

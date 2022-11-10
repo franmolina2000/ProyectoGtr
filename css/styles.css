@@ -141,29 +141,6 @@
   height: 40vh;
 }
 
-/* Pagina R-36  */
-.portada--r36 {
-  background-image: url(../fotos/fondor36.jpg);
-  height: 150vh;
-  background-position: center;
-  background-size: cover;
-}
-
-.portada--r36 article {
-  box-sizing: content-box;
-  width: 50%;
-  background-color: aliceblue;
-  padding: 15px;
-  border: 3px solid black;
-}
-
-.portada--r36 img {
-  position: absolute;
-  right: 50px;
-  border: 3px solid black;
-  height: 40vh;
-}
-
 /* Header  */
 .logo {
   width: 120px;
@@ -292,11 +269,6 @@ h2 {
     width: 93%;
     justify-content: baseline;
   }
-  .portada--r36 img {
-    left: 50px;
-    position: static;
-    height: 17vh;
-  }
   .fondo-contacto form {
     height: auto;
   }
@@ -354,11 +326,6 @@ h2 {
     left: 50px;
     position: static;
     height: 25vh;
-  }
-  .portada--r36 img {
-    left: 50px;
-    position: static;
-    height: 17vh;
   }
 }
 
