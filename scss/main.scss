@@ -30,17 +30,20 @@
  
   @media screen and (max-width:800px) {
    .texto-portada {height:40vh ;width: 90%;}
+   .portada {height: auto;}
   .portada img {left: 50px;position: static; height: 20vh;}
   .portada--r32 img {left: 50px;position: static; height: 20vh;}
   .portada--r32 {height: 180vh;}
   .texto--r32-2 {height: 40vh;}
-  .portada--r32 p {height: 40vh; width: 90%;}
-  .video--r32 {left: auto;}
+  .portada--r32 p {height: 40vh; width: 90%;justify-content: center;}
+  .video--r32 {left: 20px;}
+  .portada--r32 section {display: inline-block;}
   .portada--r33 img {left: 50px;position: static; height: 25vh;}
   .portada--r33 p {height: 40vh;width: 90%;}
   .portada--r34 img {left: 50px;position: static; height: 25vh;}
-  .portada--r34 p {height: 40vh;width: 90%;}
+  .portada--r34 p {height: 40vh;width: 90%;font-size: 0.85rem;}
   .portada--r35 img {left: 50px;position: static; height: 25vh;}
+  .portada--r35 p  {height: 50vh;width: 93%;justify-content: baseline;}
   .portada--r36 img {left: 50px;position: static; height: 17vh;}
   .fondo-contacto form {height: auto;}
   .fondomodal {background-image: url(../fotos/nissanr34.gif);}

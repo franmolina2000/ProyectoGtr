@@ -12,7 +12,7 @@
   background-color: aliceblue;
   padding: 15px;
   border: 3px solid rgb(0, 0, 0);
-  height: 50vh;
+  height: 40vh;
 }
 
 .primer-skyline {
@@ -22,8 +22,8 @@
 }
 
 .portada {
-  background-image: url(/fotos/fondogtr.jpg);
-  height: 100vh;
+  background-image: url(../fotos/fondogtr.jpg);
+  height: 110vh;
   background-position: center;
   background-size: cover;
 }
@@ -60,6 +60,11 @@
   height: 40vh;
   size-adjust: 20%;
   box-sizing: content-box;
+}
+
+.portada--r32 section {
+  margin-bottom: auto;
+  justify-content: space-around;
 }
 
 /* Pagina R-33  */
@@ -119,13 +124,14 @@
   background-size: cover;
 }
 
-.portada--r35 article {
+.portada--r35 p {
   box-sizing: content-box;
-  width: 100%;
-  height: 100%;
+  width: 50%;
   background-color: aliceblue;
   padding: 15px;
   border: 3px solid black;
+  height: 50vh;
+  width: 100%;
 }
 
 .portada--r35 img {
@@ -227,6 +233,9 @@ h2 {
     height: 40vh;
     width: 90%;
   }
+  .portada {
+    height: auto;
+  }
   .portada img {
     left: 50px;
     position: static;
@@ -246,9 +255,13 @@ h2 {
   .portada--r32 p {
     height: 40vh;
     width: 90%;
+    justify-content: center;
   }
   .video--r32 {
-    left: auto;
+    left: 20px;
+  }
+  .portada--r32 section {
+    display: inline-block;
   }
   .portada--r33 img {
     left: 50px;
@@ -267,11 +280,17 @@ h2 {
   .portada--r34 p {
     height: 40vh;
     width: 90%;
+    font-size: 0.85rem;
   }
   .portada--r35 img {
     left: 50px;
     position: static;
     height: 25vh;
+  }
+  .portada--r35 p {
+    height: 50vh;
+    width: 93%;
+    justify-content: baseline;
   }
   .portada--r36 img {
     left: 50px;
